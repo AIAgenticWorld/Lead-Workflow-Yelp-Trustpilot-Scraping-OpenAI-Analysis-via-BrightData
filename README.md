@@ -1,5 +1,4 @@
 <img width="708" height="408" alt="image" src="https://github.com/user-attachments/assets/7bf01f53-c380-41a5-be86-c1712e6eb026" />
-
 # 🔍 AI-Powered Lead Generation Workflow
 
 This automated lead generation workflow identifies high-quality business prospects from Yelp and Trustpilot, verifies their credibility, and sends personalized outreach emails using AI. Built with **n8n**, this solution is ideal for digital marketing agencies, sales teams, and business development professionals.
